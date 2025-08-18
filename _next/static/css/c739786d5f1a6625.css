@@ -1,0 +1,66 @@
+.mobile_root__hRUJv .bg {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: #f6f8fc;
+  z-index: -1;
+}
+.mobile_root__hRUJv .bg .container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.mobile_root__hRUJv .bg .sphere {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+}
+.mobile_root__hRUJv .bg .sphere1 {
+  width: 600px;
+  height: 600px;
+  background-color: rgba(205, 241, 56, 0.8);
+  top: 60%;
+  left: 5%;
+  animation: mobile_float1__VGVyA 7s ease-in-out infinite;
+}
+.mobile_root__hRUJv .bg .sphere2 {
+  width: 450px;
+  height: 450px;
+  background-color: rgba(135, 125, 255, 0.22);
+  bottom: 5%;
+  left: 30%;
+  animation: mobile_float2__5Yumm 5s ease-in-out infinite;
+}
+@keyframes mobile_float1__VGVyA {
+  0%,
+  to {
+    transform: translate(100px, -100px);
+  }
+  20% {
+    transform: translate(300px, -100px);
+  }
+  40% {
+    transform: translate(500px, -500px);
+  }
+  60% {
+    transform: translate(700px, -300px);
+  }
+  80% {
+    transform: translate(300px);
+  }
+}
+@keyframes mobile_float2__5Yumm {
+  0%,
+  to {
+    transform: translate(200px, -200px);
+  }
+  25% {
+    transform: translate(30px, -40px);
+  }
+  50% {
+    transform: translate(-25px, 25px);
+  }
+  75% {
+    transform: translate(20px, 35px);
+  }
+}
