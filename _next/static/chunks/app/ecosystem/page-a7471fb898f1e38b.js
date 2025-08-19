@@ -615,7 +615,6 @@
       let l = [
         { href: "/stake", label: "Stake", external: !1 },
 
-        { href: "/", label: "Docs", external: !0 },
         { href: "/credits", label: "API Credits", external: !1 },
         { href: "/blog", label: "Blog", external: !1 },
         { label: "Terms of Service", external: !1 },
@@ -1136,7 +1135,6 @@
       let h = [
           { href: "/stake", label: "Stake", external: !1 },
 
-          { href: "/", label: "Docs", external: !0 },
           { href: "/blog", label: "Blog", external: !1 },
         ],
         u = (e) => {

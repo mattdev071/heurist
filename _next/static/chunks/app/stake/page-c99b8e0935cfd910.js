@@ -1399,7 +1399,7 @@
                                 className: (0, C.cn)(
                                   'font-["Inter"] text-lg font-semibold text-[#CDF138] underline-offset-8 hover:underline'
                                 ),
-                                children: "Go to Docs",
+                                children: "Go to Home",
                               }),
                             ],
                           }),

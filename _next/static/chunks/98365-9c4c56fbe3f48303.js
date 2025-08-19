@@ -631,7 +631,7 @@
                   className: "logo",
                   children: (0, d.jsx)(v.default, {
                     href: "/",
-                    children: (0, d.jsx)(g.Z, {}),
+                    // children: (0, d.jsx)(g.Z, {}),
                   }),
                 }),
                 (0, d.jsx)("ul", {

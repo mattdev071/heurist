@@ -792,7 +792,6 @@
       let u = [
           { href: "/stake", label: "Stake", external: !1 },
 
-          { href: "/", label: "Docs", external: !0 },
           { href: "/blog", label: "Blog", external: !1 },
         ],
         f = (e) => {
