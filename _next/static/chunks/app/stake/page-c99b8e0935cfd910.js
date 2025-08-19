@@ -445,13 +445,13 @@
                     (0, a.jsx)("div", {
                       className:
                         "custom-font-SFMono-medium text-center text-2xl font-bold text-white mb:text-left",
-                      children: "Stake HEU",
+                      children: "Stake INSIGHT",
                     }),
                     (0, a.jsx)("div", {
                       className: (0, C.cn)(
                         'mt-1.5 font-["Inter"] text-lg text-[#848484]'
                       ),
-                      children: "Stake your HEU tokens on Base network",
+                      children: "Stake your INSIGHT tokens on Base network",
                     }),
                   ],
                 }),
@@ -498,7 +498,7 @@
                           width: 30,
                           height: 30,
                         }),
-                        "HEU",
+                        "INSIGHT",
                       ],
                     }),
                     (0, a.jsxs)("div", {
@@ -570,7 +570,7 @@
                           width: 30,
                           height: 30,
                         }),
-                        "stHEU",
+                        "stINSIGHT",
                       ],
                     }),
                     (0, a.jsxs)("div", {
@@ -610,7 +610,7 @@
             (0, a.jsx)("div", {
               className:
                 "mt-4 rounded-md bg-black py-4 pl-6 text-sm font-medium text-white",
-              children: "Stake HEU into stHEU to earn staking yields.",
+              children: "Stake INSIGHT into stINSIGHT to earn staking yields.",
             }),
             (0, a.jsx)("div", {
               children: l
@@ -662,7 +662,7 @@
                       (0, a.jsx)("th", {
                         className:
                           "px-6 py-4 text-left text-sm font-medium text-[#848484]",
-                        children: "Amount (HEU)",
+                        children: "Amount (INSIGHT)",
                       }),
                       (0, a.jsx)("th", {
                         className:
@@ -672,7 +672,7 @@
                       (0, a.jsx)("th", {
                         className:
                           "px-6 py-4 text-left text-sm font-medium text-[#848484]",
-                        children: "Claimable Amount (HEU)",
+                        children: "Claimable Amount (INSIGHT)",
                       }),
                       (0, a.jsx)("th", {
                         className:
@@ -823,13 +823,13 @@
                     (0, a.jsx)("div", {
                       className:
                         "custom-font-SFMono-medium text-center text-2xl font-bold text-white mb:text-left",
-                      children: "Unstake stHEU",
+                      children: "Unstake stINSIGHT",
                     }),
                     (0, a.jsx)("div", {
                       className: (0, C.cn)(
                         'mt-1.5 font-["Inter"] text-lg text-[#848484]'
                       ),
-                      children: "Unstake and vest stHEU to receive HEU tokens.",
+                      children: "Unstake and vest stINSIGHT to receive INSIGHT tokens.",
                     }),
                   ],
                 }),
@@ -874,7 +874,7 @@
                           width: 30,
                           height: 30,
                         }),
-                        "stHEU",
+                        "stINSIGHT",
                       ],
                     }),
                     (0, a.jsxs)("div", {
@@ -944,7 +944,7 @@
                           width: 30,
                           height: 30,
                         }),
-                        "HEU",
+                        "INSIGHT",
                       ],
                     }),
                     (0, a.jsx)("div", {
@@ -963,7 +963,7 @@
               className:
                 "mt-4 rounded-md bg-black py-4 pl-6 text-sm font-medium text-white",
               children:
-                "Unstake your stHEU to receive HEU tokens. 30-day vesting period applies. You will stop earning yields after unstaking.",
+                "Unstake your stINSIGHT to receive INSIGHT tokens. 30-day vesting period applies. You will stop earning yields after unstaking.",
             }),
             (0, a.jsx)("div", {
               children: l
@@ -1092,7 +1092,7 @@
                           n.toLocaleString(void 0, {
                             maximumFractionDigits: 0,
                           }),
-                          " HEU"
+                          " INSIGHT"
                         ),
                       }),
                     ],
@@ -1155,7 +1155,7 @@
                                       currency: "USD",
                                       maximumFractionDigits: 0,
                                     }).format(u.currentRevenueBalance),
-                                    " HEU"
+                                    " INSIGHT"
                                   )
                                 : "",
                           }),
@@ -1169,7 +1169,7 @@
                           'flex items-center gap-2 font-["Inter"] text-[14px] font-semibold leading-[17.5px] text-[#848484]'
                         ),
                         children: [
-                          "Estimated stHEU APR",
+                          "Estimated stINSIGHT APR",
                           (0, a.jsxs)("div", {
                             className: "group relative",
                             children: [
@@ -1243,7 +1243,7 @@
                           'flex items-center gap-2 font-["Inter"] text-[14px] font-semibold leading-[17.5px] text-[#848484]'
                         ),
                         children: [
-                          "HEU per stHEU",
+                          "INSIGHT per stINSIGHT",
                           (0, a.jsxs)("div", {
                             className: "group relative",
                             children: [
@@ -1256,7 +1256,7 @@
                                 className:
                                   "absolute bottom-full left-1/2 mb-2 hidden w-64 -translate-x-1/2 rounded-md bg-[#242424] p-2 text-sm text-white shadow-lg group-hover:block",
                                 children:
-                                  "The exchange rate between stHEU and HEU increases as rewards accumulate. The rewards are auto-compounding.",
+                                  "The exchange rate between stINSIGHT and INSIGHT increases as rewards accumulate. The rewards are auto-compounding.",
                               }),
                             ],
                           }),
@@ -1315,7 +1315,7 @@
                                     thousandSeparator: !0,
                                     decimalScale: 2,
                                     fixedDecimalScale: !0,
-                                    suffix: " HEU ",
+                                    suffix: " INSIGHT ",
                                   }),
                                   (0, a.jsx)("span", {
                                     className: "text-[#848484]",
@@ -1327,7 +1327,7 @@
                                     thousandSeparator: !0,
                                     decimalScale: 2,
                                     fixedDecimalScale: !0,
-                                    suffix: " stHEU",
+                                    suffix: " stINSIGHT",
                                   }),
                                   (0, a.jsx)("span", {
                                     className: "text-[#848484]",
@@ -1379,7 +1379,7 @@
                                   decimalScale: 4,
                                   fixedDecimalScale: !0,
                                   prefix: "+",
-                                  suffix: " HEU",
+                                  suffix: " INSIGHT",
                                 }),
                               }),
                             ],
@@ -1393,7 +1393,7 @@
                                 children: "Help",
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://docs.heurist.ai/protocol-overview/stake",
+                                href: "//protocol-overview/stake",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: (0, C.cn)(
@@ -1434,7 +1434,7 @@
                     (0, a.jsx)("div", {
                       className:
                         "custom-font-SFMono-medium text-center text-[28px] font-semibold leading-[36px] text-white",
-                      children: "Earn Rewards with HEU Staking",
+                      children: "Earn Rewards with INSIGHT Staking",
                     }),
                     (0, a.jsx)(u.NL, {}),
                   ],

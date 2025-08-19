@@ -200,7 +200,7 @@
               image: (0, a.jsx)(r.Z, {}),
             },
             {
-              title: "Heurist Chain",
+              title: "Insight Chain",
               desc: "An Elastic Chain built with ZK Stack enabling smart contract execution with ultra-low fees and enhanced privacy.",
               image: (0, a.jsx)(l.Z, {}),
             },
@@ -210,7 +210,7 @@
               image: (0, a.jsx)(i.Z, {}),
             },
             {
-              title: "Heurist API",
+              title: "Insight API",
               desc: "Provide serverless access to AI models and agents. Designed for easy onboarding, with streamlined integration processes.",
               image: (0, a.jsx)(s.Z, {}),
             },

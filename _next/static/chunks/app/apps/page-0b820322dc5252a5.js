@@ -466,7 +466,7 @@
               iconBgColor: "#F87B29",
             },
             {
-              name: "Heurist Imagine",
+              name: "Insight Imagine",
               description:
                 "Create stunning AI images and videos using FLUX, Stable Diffusion, Veo 3, and more. Unlimited creativity, fully uncensored, pay-as-you-go with crypto.",
               icon: (0, n.jsx)(c, {}),

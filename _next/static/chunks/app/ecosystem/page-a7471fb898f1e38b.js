@@ -615,7 +615,7 @@
       let l = [
         { href: "/stake", label: "Stake", external: !1 },
 
-        { href: "https://docs.heurist.ai", label: "Docs", external: !0 },
+        { href: "/", label: "Docs", external: !0 },
         { href: "/credits", label: "API Credits", external: !1 },
         { href: "/blog", label: "Blog", external: !1 },
         { label: "Terms of Service", external: !1 },
@@ -746,7 +746,7 @@
                       ],
                     },
                     {
-                      title: "Buy HEU",
+                      title: "Buy INSIGHT",
                       showArrow: !1,
                       list: [
                         {
@@ -765,7 +765,7 @@
                       ],
                     },
                     {
-                      title: "Track HEU",
+                      title: "Track INSIGHT",
                       showArrow: !1,
                       list: [
                         {
@@ -1136,7 +1136,7 @@
       let h = [
           { href: "/stake", label: "Stake", external: !1 },
 
-          { href: "https://docs.heurist.ai", label: "Docs", external: !0 },
+          { href: "/", label: "Docs", external: !0 },
           { href: "/blog", label: "Blog", external: !1 },
         ],
         u = (e) => {

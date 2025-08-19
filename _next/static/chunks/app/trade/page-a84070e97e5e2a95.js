@@ -315,7 +315,7 @@
                 "TRADE ",
                 (0, s.jsx)("span", {
                   className: "text-[#CDF138]",
-                  children: "HEU",
+                  children: "INSIGHT",
                 }),
               ],
             }),
@@ -324,7 +324,7 @@
               className:
                 "mt-4 px-4 text-center text-[16px] font-medium leading-[24px] text-gray-300",
               children:
-                "HEU token is also available on these DEX and CEX platforms below",
+                "INSIGHT token is also available on these DEX and CEX platforms below",
             }),
             (0, s.jsx)("div", {
               className: "mt-8 flex flex-wrap justify-center gap-8 text-white",
@@ -460,7 +460,7 @@
                     "TRADE ",
                     (0, s.jsx)("span", {
                       className: "text-[#CDF138]",
-                      children: "HEU",
+                      children: "INSIGHT",
                     }),
                   ],
                 }),
@@ -469,7 +469,7 @@
                   className:
                     "mt-4 mb-6 text-center text-[18px] font-medium leading-[26px] text-gray-300",
                   children:
-                    "HEU token is also available on these DEX and CEX platforms below",
+                    "INSIGHT token is also available on these DEX and CEX platforms below",
                 }),
                 (0, s.jsx)("div", {
                   className: "flex flex-1 items-center justify-center",

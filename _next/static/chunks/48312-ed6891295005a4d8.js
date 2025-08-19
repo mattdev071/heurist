@@ -165,7 +165,7 @@
                 className: "custom-font-SFMono-medium text-base mb-2 ".concat(
                   "light" === t ? "text-[#696963]" : "text-white"
                 ),
-                children: "Join the Heurist Newsletter",
+                children: "Join the Insight Newsletter",
               }),
             }),
             (0, a.jsxs)("form", {

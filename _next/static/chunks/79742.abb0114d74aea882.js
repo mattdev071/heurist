@@ -185,7 +185,7 @@
                           (0, n.jsxs)("span", {
                             className: "flex w-[430px] flex-col items-start",
                             children: [
-                              "Compose your agent swarm with Heurist Mesh. Create and customize fully managed MCP servers connecting to 100+ Web3 tools.",
+                              "Compose your agent swarm with Insight Mesh. Create and customize fully managed MCP servers connecting to 100+ Web3 tools.",
                               (0, n.jsxs)(l.default, {
                                 href: "",
                                 target: "_blank",
@@ -610,7 +610,7 @@
                       showArrow: !0,
                       list: [
                         {
-                          title: "Heurist Imagine",
+                          title: "Insight Imagine",
                           link: "/",
                         },
                         {
@@ -622,13 +622,13 @@
                           link: "",
                         },
                         {
-                          title: "Heurist Digital Assets",
+                          title: "Insight Digital Assets",
                           link: "https://tokenize.heurist.ai",
                         },
                       ],
                     },
                     {
-                      title: "Buy HEU",
+                      title: "Buy INSIGHT",
                       showArrow: !1,
                       list: [
                         {
@@ -647,7 +647,7 @@
                       ],
                     },
                     {
-                      title: "Track HEU",
+                      title: "Track INSIGHT",
                       showArrow: !1,
                       list: [
                         {
@@ -754,7 +754,7 @@
                     children: [
                       "\xa9 ",
                       new Date().getFullYear(),
-                      " Heurist All Rights Reserved",
+                      " Insight All Rights Reserved",
                     ],
                   }),
                   (0, n.jsxs)("div", {
@@ -792,7 +792,7 @@
       let u = [
           { href: "/stake", label: "Stake", external: !1 },
 
-          { href: "https://docs.heurist.ai", label: "Docs", external: !0 },
+          { href: "/", label: "Docs", external: !0 },
           { href: "/blog", label: "Blog", external: !1 },
         ],
         f = (e) => {

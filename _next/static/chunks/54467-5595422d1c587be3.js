@@ -696,7 +696,7 @@
       let a = [
         { href: "/stake", label: "Stake", external: !1 },
 
-        { href: "https://docs.heurist.ai", label: "Docs", external: !0 },
+        { href: "", label: "Docs", external: !0 },
         { href: "/credits", label: "API Credits", external: !1 },
         { href: "/blog", label: "Blog", external: !1 },
         { label: "Terms of Service", external: !1 },
@@ -805,11 +805,11 @@
                       showArrow: !0,
                       list: [
                         {
-                          title: "Heurist Mesh MCP",
+                          title: "Insight Mesh MCP",
                           link: "",
                         },
                         {
-                          title: "Heurist Imagine",
+                          title: "Insight Imagine",
                           link: "/",
                         },
                         {
@@ -821,13 +821,13 @@
                           link: "",
                         },
                         {
-                          title: "Heurist Digital Assets",
+                          title: "Insight Digital Assets",
                           link: "https://tokenize.heurist.ai",
                         },
                       ],
                     },
                     {
-                      title: "Buy HEU",
+                      title: "Buy INSIGHT",
                       showArrow: !1,
                       list: [
                         {
@@ -846,7 +846,7 @@
                       ],
                     },
                     {
-                      title: "Track HEU",
+                      title: "Track INSIGHT",
                       showArrow: !1,
                       list: [
                         {
@@ -953,7 +953,7 @@
                     children: [
                       "\xa9 ",
                       new Date().getFullYear(),
-                      " Heurist All Rights Reserved",
+                      " Insight All Rights Reserved",
                     ],
                   }),
                   (0, i.jsxs)("div", {
@@ -1025,11 +1025,11 @@
                         showArrow: !0,
                         list: [
                           {
-                            title: "Heurist Mesh MCP",
+                            title: "Insight Mesh MCP",
                             link: "",
                           },
                           {
-                            title: "Heurist Imagine",
+                            title: "Insight Imagine",
                             link: "/",
                           },
                           {
@@ -1041,13 +1041,13 @@
                             link: "",
                           },
                           {
-                            title: "Heurist Digital Assets",
+                            title: "Insight Digital Assets",
                             link: "https://tokenize.heurist.ai",
                           },
                         ],
                       },
                       {
-                        title: "Buy HEU",
+                        title: "Buy INSIGHT",
                         showArrow: !1,
                         list: [
                           {
@@ -1066,7 +1066,7 @@
                         ],
                       },
                       {
-                        title: "Track HEU",
+                        title: "Track INSIGHT",
                         showArrow: !1,
                         list: [
                           {
@@ -1179,7 +1179,7 @@
                     children: [
                       "\xa9 ",
                       new Date().getFullYear(),
-                      " Heurist All rights reserved",
+                      " Insight All rights reserved",
                     ],
                   }),
                   (0, i.jsxs)("div", {
@@ -1217,7 +1217,7 @@
       let h = [
           { href: "/stake", label: "Stake", external: !1 },
 
-          { href: "https://docs.heurist.ai", label: "Docs", external: !0 },
+          { href: "", label: "Docs", external: !0 },
           { href: "/blog", label: "Blog", external: !1 },
         ],
         u = (e) => {

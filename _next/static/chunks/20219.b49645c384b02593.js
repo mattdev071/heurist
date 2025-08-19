@@ -94,7 +94,7 @@
                         (0, a.jsxs)("span", {
                           className: "flex w-full flex-col items-start",
                           children: [
-                            "Compose your agent swarm with Heurist Mesh. Create and customize fully managed MCP servers connecting to 100+ Web3 tools.",
+                            "Compose your agent swarm with Insight Mesh. Create and customize fully managed MCP servers connecting to 100+ Web3 tools.",
                             (0, a.jsx)(i.default, {
                               href: "https://etherscan.io/token/0xTBA",
                               className:
@@ -408,7 +408,7 @@
       let r = [
         { href: "/stake", label: "Stake", external: !1 },
 
-        { href: "https://docs.heurist.ai", label: "Docs", external: !0 },
+        { href: "", label: "Docs", external: !0 },
         { href: "/credits", label: "API Credits", external: !1 },
         { href: "/blog", label: "Blog", external: !1 },
         { label: "Terms of Service", external: !1 },

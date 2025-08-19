@@ -57,7 +57,7 @@
                   children: [
                     (0, l.jsx)("h1", {
                       className: "text-3xl font-bold lg:text-5xl",
-                      children: "HEURIST MESH",
+                      children: "INSIGHT MESH",
                     }),
                     (0, l.jsx)("div", {
                       className:
@@ -417,7 +417,7 @@
                         className:
                           "custom-font-SFMono-regular flex-1 text-sm font-thin lg:text-base",
                         children: [
-                          "Access multiple AI models through a single interface. Integrate easily with minimal code changes. Automatic load balancing across decentralized resources. Pay with HEU token and get discount price. Visit",
+                          "Access multiple AI models through a single interface. Integrate easily with minimal code changes. Automatic load balancing across decentralized resources. Pay with INSIGHT token and get discount price. Visit",
                           " ",
                           (0, l.jsx)(t.default, {
                             href: "https://heurist.ai/credits",
@@ -431,7 +431,7 @@
                         ],
                       }),
                       (0, l.jsxs)(t.default, {
-                        href: "https://docs.heurist.ai",
+                        href: "/",
                         target: "_blank",
                         className:
                           "group flex h-[40px] w-fit flex-shrink-0 cursor-pointer items-center rounded-full bg-black pl-6 pr-4 font-['Inter'] text-[17px] text-[#cdf138] lg:h-[52px] lg:px-8 lg:text-[25px]",
